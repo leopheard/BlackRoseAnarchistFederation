@@ -4,7 +4,7 @@
 
 <img src="https://libcom.org/files/imagecache/article/images/library/10288721_1454551574787184_8575228376106516666_n.png"><br>
 
-<a href="http://blackrosefed.org">Black Rose Anarchist Federation /  Federación Anarquista Rosa Negra (BRRN)</a> is a political organization with locals in over a dozen cities sharing a common set of politics and creating a shared strategic vision of building popular power in workplaces, neighborhoods, schools and all sectors of society towards the goal of libertarian socialism. Include in this addon are:<br>
+<a href="http://blackrosefed.org">Black Rose Anarchist Federation / Federación Anarquista Rosa Negra (BRRN)</a> is a political organization with locals in over a dozen cities sharing a common set of politics and creating a shared strategic vision of building popular power in workplaces, neighborhoods, schools and all sectors of society towards the goal of libertarian socialism. Include in this addon are:<br>
 
 - Revolutionary Left Radio<br>
 - It's Going Down<br>
